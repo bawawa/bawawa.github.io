@@ -1,16 +1,16 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: 杨旭的个人博客
+email: kobesmi@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: One sentence introducing yourself or what you do
+description: 一只刚转算法的前端
 
 # Social icons
 facebook: username
 linkedin: username
-github: username
+github: bawawa
 deviantart: username
 codepen: username
 
